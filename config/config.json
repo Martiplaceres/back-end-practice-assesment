@@ -2,7 +2,8 @@
   "development": {
     "url": "YOUR_ELEPHANTSQL_URL_HERE",
     "dialect": "postgres",
-    "operatorsAliases": "0"
+    "operatorsAliases": "0",
+    "url": "postgres://dhavtynu:qM3N5WZ31l1ZtcBQw7jqhp-5_3uM2uBk@abul.db.elephantsql.com/dhavtynu"
   },
   "test": {
     "username": "root",
